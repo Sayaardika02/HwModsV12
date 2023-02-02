@@ -20,9 +20,9 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/@HwModsWa857' // ubah aia
-global.ig = '@Lixxzy144p' // ubah aja
+global.ig = '@recoltzy213' // ubah aja
 global.linkgrupss = "https://chat.whatsapp.com/Dnxdj6TCWCB1UJV7kvhxhx"
-global.email = 'lixxzy3@gmail.com'
+global.email = 'revoltzy213@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
 global . ownername     =       'Revolt Wa'    //ubah jadi nama mu, catat tanda ' gausah di hapus !
@@ -30,8 +30,8 @@ global . botname    =         'Revolt Wa'    //ubah jadi nama bot mu, catat tand
 global . footer      =       'Revolt Wa'   //ubah jadi nama mu, catat tanda ' gausah di hapus !
 //=================================================//
 // Other
-global . owner         = [ '6285803438385 ] // ubah aja pake nomor lu
-global . premium  = [ '6285803438385] // ubah aja pake nomor lu
+global . owner         = [ '62895327441585 ] // ubah aja pake nomor lu
+global . premium  = [ '62895327441585] // ubah aja pake nomor lu
 global . packname   =     'Revolt Wa'     // ubah aj
 global . ownerr   = [  'Revolt Wa' ] // ubah aja
 global . author  =   'Revolt Wa'  //ubah aja
