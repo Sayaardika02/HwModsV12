@@ -1,5 +1,5 @@
 const bugmenu =  ` 
-° Owner  : 6289653784091
+° Owner  : 62895327441585
 ° Version : 12
 ° Baileys : 4.4.0
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
