@@ -1,5 +1,6 @@
 const menu =  ` 
-° Owner  : HW MODS WA
+° Creator  : HW ModZ
+° Owner : Revolt-BotZ
 ° Version : 12
 ° Baileys : 4.4.0
  ▰▱▰▱▰▱▰▱▰▱▰▱▰▱
@@ -38,5 +39,5 @@ const menu =  ` 
 ┣❏ Promote 628xx
 ┣❏ Demote 628xx
 ┗━━⊱
-HW MODS WA`
+Revoltech-BotZ`
 exports.menu = menu
