@@ -118,7 +118,7 @@ let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid"
 he = `HELLO 👋 SELAMAT DATANG DI GROUP ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
 let link = `https://youtube.com/@user-pb3qt2ek1x`
 let buttons = [
-{buttonId: `⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚`, buttonText: {displayText: hello}, type: 1},
+{buttonId: `⽂ - Revol-BotZ`, buttonText: {displayText: hello}, type: 1},
 ]
 let buttonMessage = {
 document: fs.readFileSync('./baseikal/lib/tes.xlsx'),
@@ -128,12 +128,12 @@ mentions: [num],
 fileName: `HELLO 👋 SELAMAT DATANG DI GROUP ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `© ⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚`,
+footer: `© ⽂ - Revolt-BotZ`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE ⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚`,
+body: `SUBSCRIBE ⽂ - Revoltech`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -145,7 +145,7 @@ let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid"
 he = `SELAMAT TINGGAL KAWAN 👋 ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
 let link = `https://youtube.com/@user-pb3qt2ek1x`
 let buttons = [
-{buttonId: `⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚`, buttonText: {displayText: bye}, type: 1},
+{buttonId: `⽂ - Revolt-BotZ`, buttonText: {displayText: bye}, type: 1},
 ]
 let buttonMessage = {
 document: fs.readFileSync('./baseikal/lib/tes.xlsx'),
@@ -155,12 +155,12 @@ mentions: [num],
 fileName: `SELAMAT TINGGAL 👋 ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `© ⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚`,
+footer: `© ⽂ - Revolt-BotZ`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE ⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚`,
+body: `SUBSCRIBE ⽂ - Revoltech`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -192,7 +192,7 @@ let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid"
 he = `YAH DI DEMOTE 😂 ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
 let link = `https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'`
 let buttons = [
-{buttonId: `⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚`, buttonText: {displayText: 'KASIAN'}, type: 1}
+{buttonId: `⽂ - Revolt-BotZ`, buttonText: {displayText: 'KASIAN'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./baseikal/lib/tes.xlsx'),
@@ -202,12 +202,12 @@ mentions: [num],
 fileName: `KASIAN SIH DI DEMOTE 😂 ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `© ⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚`,
+footer: `© ⽂ - Revolt-BotZ`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `YANG SABAR YAH MAKANYA JADI ADMIN YANG BETUL 😡️`,
-body: `SUBSCRIBE ⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚`,
+body: `SUBSCRIBE ⽂ - Revolt-Botz`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -218,7 +218,7 @@ let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid"
 he = `CIEEE JADI ADMIN 😘 ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
 let link = `https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'`
 let buttons = [
-{buttonId: `⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚`, buttonText: {displayText: 'SELAMAT'}, type: 1}
+{buttonId: `⽂ - Revolt-BotZ`, buttonText: {displayText: 'SELAMAT'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./baseikal/lib/tes.xlsx'),
@@ -228,12 +228,12 @@ mentions: [num],
 fileName: `SELAMAT TELAH JADI ADMIN 🤗 ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `© ⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚`,
+footer: `© ⽂ - Revolt-BotZ`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `JADI LAH ADMIN YANG BIJAK KAWAN 🌷️`,
-body: `SUBSCRIBE ⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚`,
+body: `SUBSCRIBE ⽂ - Revolt-BotZ`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
