@@ -1,5 +1,5 @@
 const menu =  ` 
-° Owner  : ⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚
+° Owner  : ⽂ - Revolt-BotZ
 ° Version : 12
 ° Baileys : 4.4.0
  ▰▱▰▱▰▱▰▱▰▱▰▱▰▱
@@ -39,5 +39,5 @@ const menu =  ` 
 ┣❏ Promote 628xx
 ┣❏ Demote 628xx
 ┗━━⊱
-⽂ - 𝑳𝒊𝖝𝖝𝒛𝒚㕚`
+⽂ - Revolt-BotZ 😈`
 exports.menu = menu
