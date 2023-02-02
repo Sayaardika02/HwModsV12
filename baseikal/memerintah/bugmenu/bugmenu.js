@@ -3,7 +3,7 @@ const bugmenu =  ` 
 ° Version : 12
 ° Baileys : 4.4.0
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-😈 ${botname} 👿
+😈 ${RvLBotZ} 👿
 [ VIP 1 ]
 ┏━━⊱
 ┣❏🌷 628xxx
@@ -17,7 +17,7 @@ const bugmenu =  ` 
 ┣❏sendinvite 628xxx
 ┣❏sendbuglist 628xx
 ┗━━⊱
-[ contoh 🌷 6289653784091 ]
+[ contoh 🌷 62895327441585 ]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 [ VIP 2 ]
 ┏━━⊱
@@ -49,7 +49,7 @@ const bugmenu =  ` 
 ┣❏Jadivirtext9 [ Text nya ]
 ┣❏Jadivirtext10 [ Text nya ]
 ┗━━⊱
-[ Contoh Jadijago Lixxzy ]
+[ Contoh Jadijago Revolt ]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 [ VIRTEXT DELAY ]
 ┏━━⊱
@@ -82,5 +82,5 @@ const bugmenu =  ` 
 ┣❏Jadikatalog [reply sticker] jumlahnya
 ┣❏Jagoan [ reply chat target ]
 ┣❏Sange [ Harus Menjadi Admin ]
-┗━━⊱`
+┗━━⊱Revoltech 😈`
 exports.bugmenu = bugmenu
